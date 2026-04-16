@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901222599399",
+    "project_id": "playzone-8d2b6",
+    "storage_bucket": "playzone-8d2b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901222599399:android:9c8c5d6d5f498c14b1b042",
+        "android_client_info": {
+          "package_name": "com.playzone.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsNNz4vt-t7LoMrLyKHLWmkdAi0ejcevs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
